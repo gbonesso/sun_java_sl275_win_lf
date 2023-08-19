@@ -1,0 +1,37 @@
+  C: Print manager is starting up.
+  C: Waiting on a job to print.
+P: Adding job 'Fred#1' to the queue
+  C: Starting job 'Fred#1'
+P: Adding job 'Elizabeth#1' to the queue
+P: Adding job 'Simon#1' to the queue
+  C: Completed job 'Fred#1'
+  C: Starting job 'Elizabeth#1'
+P: Adding job 'Fred#2' to the queue
+P: Adding job 'Simon#2' to the queue
+  C: Completed job 'Elizabeth#1'
+  C: Starting job 'Simon#1'
+P: Adding job 'Fred#3' to the queue
+  C: Completed job 'Simon#1'
+  C: Starting job 'Fred#2'
+P: Adding job 'Elizabeth#2' to the queue
+P: Adding job 'Simon#3' to the queue
+  C: Completed job 'Fred#2'
+  C: Starting job 'Simon#2'
+  C: Completed job 'Simon#2'
+  C: Starting job 'Fred#3'
+P: Adding job 'Fred#4' to the queue
+  C: Completed job 'Fred#3'
+  C: Starting job 'Elizabeth#2'
+P: Adding job 'Fred#5' to the queue
+  C: Completed job 'Elizabeth#2'
+  C: Starting job 'Simon#3'
+P: Adding job 'Elizabeth#3' to the queue
+  C: Completed job 'Simon#3'
+  C: Starting job 'Fred#4'
+  C: Completed job 'Fred#4'
+  C: Starting job 'Fred#5'
+  C: Completed job 'Fred#5'
+  C: Starting job 'Elizabeth#3'
+  C: Completed job 'Elizabeth#3'
+  C: Waiting on a job to print.
+  C: Print manager is halted.
